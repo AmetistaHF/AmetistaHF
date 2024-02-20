@@ -2,7 +2,7 @@
 
 
 - 🔭 DEV back-end
-- 🌱 Estudando: Python e Java 
+- 🌱 Estudando: Automação / Machine Learning 
 - 💬 Contate-me: giovanna_hipolito2017@outlook.com
 - 😄 Pronouns: ela/dela
 
